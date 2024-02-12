@@ -1,0 +1,18 @@
+WAP to reead the contents of the file and count the number of letters, exclude spaces.
+
+o,e,i,o,u
+
+WAP to reead the contents of the file and counts the number of vovels
+
+Count number of capital vovels, small vovels, capital consonents, lowercase consonents, digits, special symbols
+
+o@i@o@u
+
+WAP that copies contents of one file to another
+
+WAP that copies those lines into second file which are beginning from vovels
+
+Given a list with numbers, transfer all odds to odd.txt and even to even.txt
+
+count number of words in given file
+ount numebr of words ending with vovel
